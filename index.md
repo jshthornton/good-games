@@ -8,3 +8,4 @@
 * Unrailed! 📡
 * Rocket League
 * Overcooked 2 📡
+* Stardew valley
